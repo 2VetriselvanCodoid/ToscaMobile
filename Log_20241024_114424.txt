@@ -1,0 +1,41 @@
+[3] 11:44:24: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Mobile_apk\Mobile_apk.tws'
+[3] 11:44:24: Log level: 4
+[3] 11:44:24: Release: 24.1.1.5090
+[3] 11:44:24: Execution Approval is disabled.
+[3] 11:44:24: No service discovery configured.
+[3] 11:44:24:  Save started!
+[3] 11:44:24: QTestIntegrationAddIn beginning to Export to QTest
+[3] 11:44:24: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 11:44:24: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 11:44:24: LinkTcToQTestService grouping testcases by same endpoint
+[3] 11:44:24: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 11:44:24: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 11:44:24:  Save finished!
+[2] 11:44:25: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 11:44:25:  ShowStatusInfo: 'New Project with Default-Folders created!'
+[3] 11:44:25:  Save started!
+[3] 11:44:25: QTestIntegrationAddIn beginning to Export to QTest
+[3] 11:44:25: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 11:44:25: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 11:44:25: LinkTcToQTestService grouping testcases by same endpoint
+[3] 11:44:25: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 11:44:25: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 11:44:25:  Save finished!
+[4] 11:44:25:  ShowStatusInfo: 'Workspace 'C:\Tosca_Projects\Tosca_Workspaces\Mobile_apk\Mobile_apk.tws' created successfully!'
+[4] 11:44:25:  ShowStatusInfo: 'Importing workspace template, please wait...'
+[2] 11:44:26: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=24.1.1.5090, Culture=en-IN, PublicKeyToken=null
+[2] 11:44:26: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=24.1.1.5090, Culture=en, PublicKeyToken=null
+[4] 11:44:26:  ShowStatusInfo: 'Import Subset finalizing ...'
+[4] 11:44:26:  ShowStatusInfo: 'Import Subset finished'
+[3] 11:44:26: Task 'Import Subset' finished
+[4] 11:44:26:  ShowStatusInfo: 'Workspace template successfully imported!'
+[3] 11:44:26:  Save started!
+[3] 11:44:26: QTestIntegrationAddIn beginning to Export to QTest
+[3] 11:44:26: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 11:44:26: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 11:44:26: LinkTcToQTestService grouping testcases by same endpoint
+[3] 11:44:26: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 11:44:26: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 11:44:27:  Save finished!
+[3] 11:44:30: Closing Workspace!
+[3] 11:44:30: Log closed!
